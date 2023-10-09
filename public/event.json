@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wedding Events",
+    "image": "https://i.ibb.co/LNsJzVf/home-1.jpg",
+    "price": 10000,
+    "description": "PH EVENT AGENCY is a professional service that specializes in planning and executing weddings. With their expertise and attention to detail, these companies take the stress out of the wedding planning process and ensure that every aspect of the event is flawlessly executed. From the initial consultation to the final send-off, a wedding event company works closely with the couple to bring their vision to life.One of the primary benefits of hiring a wedding event company is the wealth of knowledge and experience they bring to the table. These professionals have a vast network of contacts in the wedding industry, from vendors and venues to photographers and florists. They are familiar with the latest trends, can offer creative ideas, and know how to make the most of any budget. Whether the couple is looking for a traditional wedding or a unique, themed celebration, a wedding event company can make it happen.The planning process typically begins with an initial consultation, where the couple discusses their vision, preferences, and budget with the wedding event planner."
+  },
+  {
+    "id": 2,
+    "name": "Birthday Events",
+    "image": "https://i.ibb.co/vLv8Jbk/home-2.jpg",
+    "price": 5000,
+    "description": "Organize birthday event that caters to planning and organizing birthday celebrations. With their expertise and experience, they take the stress and hassle out of planning a memorable birthday party.One of the key advantages of hiring a birthday event company is the ability to customize and personalize the event according to the preferences and desires of the birthday celebrant. Whether it's a themed party, a surprise celebration, or an extravagant gathering, these companies have the resources and creativity to make it happen. From selecting the perfect venue to arranging decorations, entertainment, and catering, every aspect of the event is meticulously planned and executed.Beyond the logistics, a birthday event company also offers a range of services to enhance the overall experience. They can provide professional event photographers and videographers to capture the special moments, ensuring that the memories will be cherished for years to come. Additionally, they can arrange for live entertainment, such as musicians, magicians, or DJs, to keep guests entertained throughout the celebration. "
+  },
+  {
+    "id": 3,
+    "name": "Anniversary Events",
+    "image": "https://i.ibb.co/FDXzHSb/home-3.jpg",
+    "price": 7500,
+    "description": "We offer a variety of anniversary party planning services to help you make your special day unforgettable. From themes and invitations to activities and entertainment, we can help you plan a party that you and your spouse will love. We also offer a variety of anniversary party packages to fit all budgets.        A birthday event company is a specialized business that focuses on creating unforgettable experiences for individuals celebrating their birthdays. With meticulous planning and attention to detail, these companies offer a wide range of services to ensure that every aspect of the event is taken care of, allowing the birthday person and their guests to fully immerse themselves in the celebration.One of the key roles of a birthday event company is to assist in the conceptualization and design of the event. They work closely with the client to understand their vision, preferences, and budget, and then bring their ideas to life. Whether it's a small intimate gathering or a grand extravaganza, these companies have the expertise to make it happen.From venue selection to theme development, a birthday event company takes care of all the logistics. They scout various locations, keeping in mind the client's requirements and preferences, and present them with the best options. Whether it's a cozy restaurant, a luxurious hotel, or a unique outdoor setting"
+  },
+  {
+    "id": 4,
+    "name": "Engagement Event",
+    "image": "https://i.ibb.co/WV2gmPM/home-4.jpg",
+    "price": 2500,
+    "description": "Our engagement events are specialized in planning and organizing memorable events to celebrate engagements. These companies understand the importance of this special milestone and work closely with couples to create unique and personalized experiences. From intimate gatherings to grand celebrations, an engagement event company takes care of all the details, including venue selection, decor, catering, entertainment, and more. They have a team of professionals who are skilled in event management and ensure that every aspect of the event is executed flawlessly. Whether it's a surprise proposal or an engagement party to announce the exciting news to family and friends, an engagement event company helps create magical moments that will be cherished forever. Their expertise and creativity ensure that the event reflects the couple's style, preferences, and love story. With their guidance and support, couples can enjoy their engagement journey stress-free, knowing that their special event is in capable hands.    "
+  },
+  {
+    "id": 5,
+    "name": "Retirement Party Event",
+    "image": "https://i.ibb.co/5vhxdPf/home-5.jpg",
+    "price": 6000,
+    "description": "A retirement party event is a special gathering that celebrates the end of a person's career and marks the beginning of their retirement. It is typically organized by colleagues, family members, or friends of the retiree and is a time to honor and recognize their contributions and achievements. The event can take various forms, ranging from a casual gathering at a restaurant or home to a more formal affair at a banquet hall or event venue. The retirement party often includes speeches, presentations, and gifts to express gratitude and well wishes for the retiree's future. It is an opportunity for colleagues and loved ones to reminisce about the retiree's professional journey and to share stories and memories. The atmosphere is usually filled with joy, laughter, and a sense of nostalgia as everyone comes together to celebrate the retiree's accomplishments and wish them a happy and fulfilling retirement."
+  },
+  {
+    "id": 6,
+    "name": "Baby Shower Event",
+    "image": "https://i.ibb.co/YXF58km/home-6.jpg",
+    "price": 3500,
+    "description": "A baby shower event is a joyous occasion where friends and family gather to celebrate the upcoming arrival of a new baby. It is a time to shower the expectant parents with love, support, and gifts for the baby. Typically, the event includes games, food, and decorations that are all centered around the theme of babies and motherhood. Guests often bring presents such as clothes, diapers, and baby essentials to help the parents prepare for their new addition. The atmosphere is filled with excitement and anticipation as everyone eagerly awaits the arrival of the little one. Baby shower events are a wonderful way to honor and celebrate the parents-to-be and create lasting memories for all involved.    "
+  }
+]
