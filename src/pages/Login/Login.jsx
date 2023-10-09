@@ -49,7 +49,7 @@ const Login = () => {
             const token = credential.accessToken;
             // The signed-in user info.
             const user = result.user;
-            toast('Logged In Successfully');
+            Swal.fire('Logged In Successfully');
           }).catch((error) => {
             // Handle Errors here.
             const errorCode = error.code;

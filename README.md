@@ -1,8 +1,10 @@
-# React + Vite
+## Project: The Social Event Agency 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Website Link: https://event-manage-project-63e55.web.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Project Features
+1. User Can choose event services according to their requirements
+2. User Login and Registration.
+3. After Login user can view Portfolio Page
+4. User can also view reviews from other clients
+5. Without Login a user can't view Services details,Portfolio and reviews
