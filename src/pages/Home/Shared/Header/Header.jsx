@@ -9,7 +9,7 @@ const Header = () => {
     .then(() => {
       // Sign-out successful.
     }).catch((error) => {
-      // An error
+      // An error mssge
     });
   }
 
